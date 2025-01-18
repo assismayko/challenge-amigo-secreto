@@ -1,7 +1,7 @@
 # 🎁 Amigo Secreto Digital
 
 <p align="center">
-  <img src="assets/gift.png" alt="Ícone de presente" width="150">
+ 
 </p>
 
 Este é um projeto simples e divertido para organizar o seu Amigo Secreto! Desenvolvido com **HTML, CSS e JavaScript**, ele permite que você adicione nomes de participantes, visualize a lista e realize o sorteio de forma aleatória, garantindo que cada pessoa seja sorteada apenas uma vez.
