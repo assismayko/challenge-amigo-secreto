@@ -15,13 +15,6 @@ Sortear Amigo Secreto: Clique no botão "Sortear amigo" para realizar um sorteio
 Sem repetição: O sorteio garante que nenhum amigo seja sorteado mais de uma vez.
 
 Como Usar
-Clone o Repositório:
-
-git clone https://vercel.com/assismaykos-projects/challenge-amigo-secreto
-
-Use code with caution.
-
-Bash
 
 Abra o index.html: Abra o arquivo index.html em seu navegador.
 
