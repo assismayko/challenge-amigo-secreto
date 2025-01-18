@@ -21,11 +21,12 @@ Este é um projeto simples e divertido para organizar o seu Amigo Secreto! Desen
 
 ## 🗂️ Arquivos do Projeto
 
-├── assets/
-│ └── gift.png # Imagens utilizadas no projeto
-├── index.html # Estrutura HTML do projeto
-├── style.css # Estilos CSS para a interface do usuário
-└── app.js # Lógica JavaScript para a funcionalidade
+*   **`assets/`** (Pasta)
+    *   `gift.png` - Imagens utilizadas no projeto
+*   **`index.html`** - Estrutura HTML do projeto
+*   **`style.css`** - Estilos CSS para a interface do usuário
+*   **`app.js`** - Lógica JavaScript para a funcionalidade
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML:** Para a estrutura da página web.
