@@ -1,4 +1,5 @@
 Amigo Secreto Digital
+
 Este é um projeto simples de "Amigo Secreto" desenvolvido utilizando HTML, CSS e JavaScript. Ele permite que você adicione nomes de amigos, visualize a lista e sorteie um amigo secreto de forma aleatória e sem repetição.
 
 Funcionalidades
@@ -60,4 +61,5 @@ Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e novas funcionalidades.
 
 Desenvolvedor
+
 Mayko Joplin
