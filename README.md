@@ -16,8 +16,9 @@ Este é um projeto simples e divertido para organizar o seu Amigo Secreto! Desen
 ## 🚀 Como Usar
 
 1. **Abra `index.html`:** Abra o arquivo `index.html` em seu navegador web preferido.
-2. **Adicione Amigos:** Digite o nome de cada participante no campo de texto e clique em "Adicionar".
-3. **Realize o Sorteio:** Após adicionar todos os participantes, clique no botão "Sortear amigo" para ver o resultado.
+2. Ou teste direto através deste link: https://assismayko.github.io/challenge-amigo-secreto/
+3. **Adicione Amigos:** Digite o nome de cada participante no campo de texto e clique em "Adicionar".
+4. **Realize o Sorteio:** Após adicionar todos os participantes, clique no botão "Sortear amigo" para ver o resultado.
 
 ## 🗂️ Arquivos do Projeto
 
